@@ -1,0 +1,17 @@
+
+body{
+    font-family:"Roboto";
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+h1{
+    color:darkslateblue;
+}
+p{
+    color: rgb(78, 4, 150);
+}
+video{
+    width: 40%;
+}
